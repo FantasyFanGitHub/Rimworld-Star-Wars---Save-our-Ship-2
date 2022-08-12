@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blueprint>
+  
+  <meta>
+    <gameVersion>1.3.3389 rev40</gameVersion>
+    <modIds>
+      <li>brrainz.harmony</li>
+      <li>ludeon.rimworld</li>
+      <li>unlimitedhugs.hugslib</li>
+      <li>kentington.saveourship2</li>
+      <li>erdelf.humanoidalienraces</li>
+      <li>oskarpotocki.vanillafactionsexpanded.core</li>
+      <li>neronix17.toolbox</li>
+      <li>neronix17.outerrim.galaxies</li>
+      <li>fantasyfan.sos2.starwarsship</li>
+      <li>fluffy.blueprints</li>
+    </modIds>
+    <modSteamIds>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+    </modSteamIds>
+    <modNames>
+      <li>Harmony</li>
+      <li>Core</li>
+      <li>HugsLib</li>
+      <li>Save Our Ship 2</li>
+      <li>Humanoid Alien Races</li>
+      <li>Vanilla Expanded Framework</li>
+      <li>Tabula Rasa</li>
+      <li>Outer Rim Galaxies</li>
+      <li>Save Our Ship 2 - Star Wars Ships</li>
+      <li>Blueprints</li>
+    </modNames>
+  </meta>
+	<Blueprint>
+		<BuildableThings>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackRight</ThingDef>
+				<Position>(-10, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, -2)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackLeft</ThingDef>
+				<Position>(-10, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -2)</Position>
+			</li>
+
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, -2)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, -2)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackRight</ThingDef>
+				<Position>(-6, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -2)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackLeft</ThingDef>
+				<Position>(-6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, -5)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, -6)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, -6)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackEndRight</ThingDef>
+				<Position>(-2, 0, -13)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -6)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_BackEndLeft</ThingDef>
+				<Position>(-2, 0, 13)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, -10)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, -9)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, 10)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, -10)</Position>
+			</li>
+			
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, 10)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -10)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 10)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_EngineBlock</ThingDef>
+				<Position>(4, 0, -14)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_Back</ThingDef>
+				<Position>(1, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_EngineBlock</ThingDef>
+				<Position>(4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_Back</ThingDef>
+				<Position>(1, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_EngineBlock</ThingDef>
+				<Position>(4, 0, 14)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(2, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_EngineConnector</ThingDef>
+				<Position>(6, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(3, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_EngineConnector</ThingDef>
+				<Position>(6, 0, 7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(5, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(6, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(7, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_Engine</ThingDef>
+				<Position>(10, 0, -14)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_Engine</ThingDef>
+				<Position>(10, 0, 0)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>PowerConduit</ThingDef>
+				<Position>(9, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_ConsularClassCruiser_Engine</ThingDef>
+				<Position>(10, 0, 14)</Position>
+				<Rotation>3</Rotation>
+			</li>
+		</BuildableThings>
+		<Name>ConsularCruiser2</Name>
+		<Size>(23, 37)</Size>
+	</Blueprint>
+</Blueprint>

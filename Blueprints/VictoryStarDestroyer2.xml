@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blueprint>
+  <meta>
+    <gameVersion>1.3.3389 rev40</gameVersion>
+    <modIds>
+      <li>brrainz.harmony</li>
+      <li>ludeon.rimworld</li>
+      <li>unlimitedhugs.hugslib</li>
+      <li>kentington.saveourship2</li>
+      <li>erdelf.humanoidalienraces</li>
+      <li>oskarpotocki.vanillafactionsexpanded.core</li>
+      <li>neronix17.toolbox</li>
+      <li>neronix17.outerrim.galaxies</li>
+      <li>fantasyfan.sos2.starwarsship</li>
+      <li>fluffy.blueprints</li>
+    </modIds>
+    <modSteamIds>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+      <li>0</li>
+    </modSteamIds>
+    <modNames>
+      <li>Harmony</li>
+      <li>Core</li>
+      <li>HugsLib</li>
+      <li>Save Our Ship 2</li>
+      <li>Humanoid Alien Races</li>
+      <li>Vanilla Expanded Framework</li>
+      <li>Tabula Rasa</li>
+      <li>Outer Rim Galaxies</li>
+      <li>Save Our Ship 2 - Star Wars Ships</li>
+      <li>Blueprints</li>
+    </modNames>
+  </meta>
+	<Blueprint>
+		<BuildableThings>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_FrontRightC</ThingDef>
+				<Position>(-18, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-11, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_FrontLeftC</ThingDef>
+				<Position>(-18, 0, 15)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_SideRightA</ThingDef>
+				<Position>(-2, 0, -20)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -15)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -14)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -13)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 13)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 14)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 15)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-10, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_SideLeftA</ThingDef>
+				<Position>(-2, 0, 19)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-9, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-8, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-7, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-6, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-5, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-4, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-3, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-2, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(-1, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(0, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(1, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(1, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(1, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(2, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(2, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(2, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(3, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(3, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(3, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(4, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(4, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(4, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(5, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(5, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(5, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(6, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(6, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(6, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(7, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(7, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(7, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_SideRightB</ThingDef>
+				<Position>(17, 0, -29)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -20)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -19)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -18)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -17)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 16)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 17)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 18)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 19)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 20)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(8, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>Ship_VictoryClassStarDestroyer_SideLeftB</ThingDef>
+				<Position>(17, 0, 28)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(9, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(9, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(9, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(10, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(10, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(10, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(10, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipDoor</ThingDef>
+				<Position>(11, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(11, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(12, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(12, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(13, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(13, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(14, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(14, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(15, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(15, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(16, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(16, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(17, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(17, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(18, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(18, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(19, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(19, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(20, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(20, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(21, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(21, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(22, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(22, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(23, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(23, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(24, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(24, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(25, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(25, 0, 21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(26, 0, -21)</Position>
+			</li>
+			<li>
+				<ThingDef>CEC_ShipWall</ThingDef>
+				<Position>(26, 0, 21)</Position>
+			</li>
+		</BuildableThings>
+		<Name>VictoryStarDestroyer2</Name>
+		<Size>(52, 71)</Size>
+	</Blueprint>
+</Blueprint>
